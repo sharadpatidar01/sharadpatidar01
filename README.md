@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sharad Patidar</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160"/>
 </div>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <h3 align="center">An aspiring Full Stack MERN Developer from India.</h3>
 
-<h3>
+<h3 align="justify">
   I'm a passionate Full Stack Web developer skilled in the MERN stack, always ready to learn new things and experiment. I focus on writing clean, elegant, and efficient code ✨ with an aspiration to build new features from ideation to production, implement frameworks, and design flows that provide users with a seamless experience. I emphasize reusable and efficient code, blending good design, technology, and innovation in all my projects.
 </h3>
 
@@ -20,12 +20,14 @@
   <img src="https://komarev.com/ghpvc/?username=sharadpatidar01&label=Profile%20views&color=0e75b6&style=flat" alt="sharadpatidar01" /> 
 </p>
 
+<!-- 
 <h3 align="left">🏆 Git Profile Trophies:</h3>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sharadpatidar01" alt="sharadpatidar01" />
   </a> 
 </p>
+-->
 
 ---
 
@@ -49,10 +51,14 @@
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharadpatidar_/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharadpatidar/) 
+&nbsp;&nbsp;
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sharadpatidar) 
+&nbsp;&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://www.leetcode.com/sharadpatidar) 
+&nbsp;&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sharadpatidar_) 
+&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sharadpatidar_)
 
 ---

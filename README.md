@@ -1,39 +1,68 @@
+
 <h1 align="center">Hi 👋, I'm Sharad Patidar</h1>
-<h3 align="center">Passionate MERN Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/sharadpatidar01/sharadpatidar01/blob/main/img4.jpg">
-<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shardpatidar01&label=Profile%20views&color=0e75b6&style=flat" alt="shardpatidar01" /> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shardpatidar01" alt="shardpatidar01" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shardpatidar01" target="blank"><img src="https://img.shields.io/twitter/follow/shardpatidar01?logo=twitter&style=for-the-badge" alt="shardpatidar01" /></a> </p>
-
-- 🔭 I’m currently working on **Optimized Transmission Scheduling of Health Data via Multi-UAV Networks for Smart Healthcare Monitoring**
-
-- 🌱 I’m currently learning **Python, SQL, DBMS, ChatGPT etc.**
-
-- 🎓 I’m Student of **IIT (BHU) Varanasi**
-
-- 💬 Ask me about **C++, Javascript, React, DSA, SQL, Node.js**
-
-- 📫 How to reach me **patidarsharad01@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shardpatidar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shardpatidar01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shardpatidar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shardpatidar_" height="30" width="40" /></a>
-<a href="https://instagram.com/shardpatidar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shardpatidar_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@sharadpatidar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sharadpatidar_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sharadpatidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharadpatidar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sharadpatidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharadpatidar" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I'm Sharad Patidar 🙋🏻‍♂️; I am a Full-Stack%20Web%20Developer 👨🏻‍💻; Passionate about teamwork 🤝;Curious%20to%20learn%20new%20things 💡!&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<h3 align="center">An aspiring Full Stack MERN Developer from India.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shardpatidar01&show_icons=true&locale=en&layout=compact" alt="shardpatidar01" /></p>
+<h3>
+  I'm a passionate Full Stack Web developer skilled in the MERN stack, always ready to learn new things and experiment. I focus on writing clean, elegant, and efficient code ✨ with an aspiration to build new features from ideation to production, implement frameworks, and design flows that provide users with a seamless experience. I emphasize reusable and efficient code, blending good design, technology, and innovation in all my projects.
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shardpatidar01&show_icons=true&locale=en" alt="shardpatidar01" /></p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sharadpatidar01&label=Profile%20views&color=0e75b6&style=flat" alt="sharadpatidar01" /> 
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shardpatidar01&" alt="shardpatidar01" /></p>
+<h3 align="left">🏆 Git Profile Trophies:</h3>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sharadpatidar01" alt="sharadpatidar01" />
+  </a> 
+</p>
+
+---
+
+🔭 **I'm currently pursuing my M.Tech at IIT (BHU) Varanasi, while exploring and refining my skills.**
+
+🌍 **I'm from Madhya Pradesh, India**
+
+⚛️ **Technologies I enjoy working with: MERN stack**
+
+👨‍💻 **My Portfolio**: [Click here](https://github.com/stars/sharadpatidar01/lists/my-dynamic-portfolio)
+
+📃 **My Resume**: [Click here](https://1drv.ms/b/s!ApOh7KBCQqXlxGK7UVPJVHjaHG-4?e=H66ZnR)
+
+👀 **My GitHub Repositories**: [Click here](https://github.com/sharadpatidar01?tab=repositories)
+
+🚀 **Skills**: C, C++, Javascript, Python, React, Node.js, Express, Bootstrap, Git, GitHub, HTML, CSS
+
+📧 **Email**: patidarsharad01@gmail.com
+
+---
+
+## 🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharadpatidar_/) 
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sharadpatidar) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://www.leetcode.com/sharadpatidar) 
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sharadpatidar_) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sharadpatidar_)
+
+---
+
+## 💻 Tech Stack:
+
+<p align="center">
+    <img src="https://www.canva.com/design/DAGQw551P34/lYfv2V5AAfj7Us5UBaG9Zg/view?utm_content=DAGQw551P34&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="css3"/>   
+</p>
+
+---
+
+<!-- ## 📊 My GitHub Stats -->

@@ -37,7 +37,7 @@
 
 👨‍💻 **My Portfolio**: [Click here](https://github.com/stars/sharadpatidar01/lists/my-dynamic-portfolio)
 
-📃 **My Resume**: [Click here](https://1drv.ms/b/s!ApOh7KBCQqXlxGK7UVPJVHjaHG-4?e=H66ZnR)
+📃 **My Resume**: [Click here](https://flowcv.com/resume/6889ik5rr0)
 
 👀 **My GitHub Repositories**: [Click here](https://github.com/sharadpatidar01?tab=repositories)
 

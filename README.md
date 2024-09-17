@@ -72,4 +72,7 @@
 
 ---
 
-<!-- ## 📊 My GitHub Stats -->
+## 📊 My GitHub Stats
+![Sharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharadpatidar01&count_private=true&show_icons=true&theme=noctis_minimus)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharadpatidar01&layout=compact&theme=noctis_minimus)
+

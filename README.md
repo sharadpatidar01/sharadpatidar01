@@ -73,6 +73,16 @@
 ---
 
 ## 📊 My GitHub Stats
-![Sharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharadpatidar01&count_private=true&show_icons=true&theme=noctis_minimus)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharadpatidar01&layout=compact&theme=noctis_minimus)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharadpatidar01&theme=react)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharadpatidar01&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharadpatidar01&theme=react)
+![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharadpatidar01&theme=react)
+![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharadpatidar01&theme=react)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharadpatidar01&theme=react)
+
+
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharadpatidar01&layout=compact&theme=react) -->
+
+
+
 

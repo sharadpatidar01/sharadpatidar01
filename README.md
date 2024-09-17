@@ -61,12 +61,12 @@
 &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sharadpatidar_)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ## 💻 Tech Stack:
 
 <div align="center">
-  <img src = "https://github.com/sharadpatidar01/sharadpatidar01/blob/main/1.jpg" align="center" alt="img1"/>
-  <img src="https://github.com/sharadpatidar01/sharadpatidar01/blob/main/2.jpg"  align="center" alt="img2"/>
+  <img src = "https://github.com/sharadpatidar01/sharadpatidar01/blob/main/languages.jpg" align="center" alt="languages"/>
 </div>
 <!--
 <div>
